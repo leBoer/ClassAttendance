@@ -19,7 +19,7 @@ input {
 }
 
 /* Column types */
-th.missed-col {
+th.missed-col-head {
     background-color: #f00;
 }
 
